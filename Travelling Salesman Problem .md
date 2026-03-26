@@ -73,7 +73,7 @@ if __name__ == "__main__":
 ## OUTPUT
 <img width="313" height="103" alt="image" src="https://github.com/user-attachments/assets/de08b2bb-7e7e-4e33-9596-2cf2f575dec3" />
 
-##RESULT
+## RESULT
 Thus the program for Travelling Salesman Problem (TSP) is executed Successfully.
 
 
